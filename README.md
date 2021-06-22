@@ -17,7 +17,7 @@ You Can view full details
 
 ## Demos
 
-![demo](https://github.com/mayararaby/Movie-App-React-Js/blob/master/demo%20(2).gif)
+![demo](https://github.com/mayararaby/Movie-App-React-Js/blob/master/demo.gif)
 
 
 
