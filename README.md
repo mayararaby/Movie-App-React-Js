@@ -2,7 +2,7 @@
 
 Made with :heart: in React
 -
-This is a responsive movies and TV shows app built using ReactJS and utilizes [Redux](https://redux.js.org/) for state management.<br />
+This is a responsive Movies app built using ReactJS and utilizes [Redux](https://redux.js.org/) for state management.<br />
 [The Movie Database (TMDb) API](https://www.themoviedb.org/documentation/api) is used to fetch data. <br />
 
 You can navigate between the latest movies
