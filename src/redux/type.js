@@ -1,0 +1,2 @@
+export const GETALLMOVIES = "GETALLMOVIES" ;
+export const GET_MOVIES_DETAILS = 'GET_MOVIES_DETAILS' ;

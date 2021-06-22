@@ -1,0 +1,12 @@
+body{
+    /* background-color: rgba(0, 0, 0, 0.877); */
+    background: 
+    linear-gradient(
+    rgba(0, 0, 0, 0.95),
+    rgba(0, 0, 0, 0.95)
+    ),
+    url("../../Components/Assets/Images/Header.png");
+    background-size: cover;
+    height: 100vh;
+    position: relative;
+} 

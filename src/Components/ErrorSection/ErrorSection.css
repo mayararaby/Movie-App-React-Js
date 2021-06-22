@@ -1,0 +1,16 @@
+*{
+    color: #fff;
+}
+.bold
+{
+    font-weight: bold;
+}
+.ImageCard
+{
+    width:40%;
+    margin:auto;
+    display:flex
+}
+.transparentCard{
+    background-color: transparent;
+}

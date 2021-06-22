@@ -1,0 +1,50 @@
+.imgCard {
+-o-object-fit: cover;
+object-fit: cover;
+width: 100%;
+height: 100%;
+-o-object-position: center;
+object-position: top;
+cursor: pointer;
+-webkit-transition: width 500ms;
+transition: width 500ms;
+}
+
+.imgCard:hover {
+width: 103%;
+}
+.card-title
+{
+font-weight: bold;    
+}
+
+.card {
+background-color: rgb(10 11 8);
+color: #fff;
+}
+.card-height
+{
+    height: 100vh;
+}
+.manImg {
+max-height: 60vh;
+-o-object-fit: contain;
+object-fit: contain;
+}
+
+.containerImg {
+height: 80vh;
+overflow: hidden;
+}
+.linkDetails
+{
+    color: #fff;
+}
+.linkDetails:hover
+{
+    color: rgba(255, 255, 255, 0.801);
+}
+
+.badge-info{
+    background-color: #17a2b8;
+}

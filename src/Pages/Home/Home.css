@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:wght@300&display=swap');
+
+*{
+    font-family: 'Roboto Condensed', sans-serif;
+}
+#ImageHeader
+{
+    background: 
+    linear-gradient(
+    rgba(0, 0, 0, 0.5),
+    rgba(0, 0, 0, 0.5)
+    ),
+    url("../../Components/Assets/Images/Header.png");
+    background-size: cover;
+    height: 100vh;
+    position: relative;
+
+}
+#getStart{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    cursor: pointer;
+}
+
+#link
+{
+    color: #FFF !important;
+    text-decoration: none;
+    font-weight: bold;
+}
