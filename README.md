@@ -1,6 +1,9 @@
 # Movie App
 
-## Movie App using React Js fetching movies from The Movie Database (TMDb) API
+Made with :heart: in React
+-
+This is a responsive movies and TV shows app built using ReactJS and utilizes [Redux](https://redux.js.org/) for state management.<br />
+[The Movie Database (TMDb) API](https://www.themoviedb.org/documentation/api) is used to fetch data. <br />
 
 ### `npm start`
 
