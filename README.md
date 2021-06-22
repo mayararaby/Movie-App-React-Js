@@ -5,13 +5,15 @@ Made with :heart: in React
 This is a responsive movies and TV shows app built using ReactJS and utilizes [Redux](https://redux.js.org/) for state management.<br />
 [The Movie Database (TMDb) API](https://www.themoviedb.org/documentation/api) is used to fetch data. <br />
 
-### `npm start`
+You can navigate between the latest movies
+You Can view full details 
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+**Run Locally**
+-
+ 1.  Clone this repository and go into its src folder.
+ 2.  Run  `npm install`
+ 3.  Run  `npm start`
+ 4.  Go to  `http://localhost:3000`  to view the app
 
 ## Demos
 
